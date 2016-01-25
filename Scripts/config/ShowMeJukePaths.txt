@@ -1,0 +1,15 @@
+TreeCutSpotPingStatic = true
+pathcolor_red = 255
+pathcolor_green = 255
+PerformanceBrush = true
+pathcolor_blue = 255
+
+
+pathcolor_blue = 255
+pathcolor_green = 255
+pathcolor_red = 255
+
+
+pathcolor_blue = 255
+pathcolor_red = 255
+pathcolor_green = 255

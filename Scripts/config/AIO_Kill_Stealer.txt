@@ -1,0 +1,7 @@
+Combokey = H
+Auto = true
+Active = M
+
+
+GlobalKey = H
+AutoGlobalSpells = true

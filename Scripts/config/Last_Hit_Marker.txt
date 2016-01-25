@@ -1,0 +1,6 @@
+DenayHitKey = U
+LastHitKey = C
+LastHit = true
+
+
+AutoDisable = false

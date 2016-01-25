@@ -1,0 +1,2 @@
+ComboKey = D
+TargetLeastHP = false

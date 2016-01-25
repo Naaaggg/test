@@ -1,0 +1,2 @@
+UnAggro = C
+Aggro = X

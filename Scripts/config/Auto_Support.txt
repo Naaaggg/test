@@ -1,0 +1,6 @@
+Active = U
+
+
+TresholdPercent = 100
+GUIxPosition = 10
+GUIyPosition = 580

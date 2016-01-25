@@ -1,0 +1,6 @@
+Midas = false
+Test = L
+Ult = 1
+minHealth = 150
+MaxNotFindTarget = 3
+Radius = 200

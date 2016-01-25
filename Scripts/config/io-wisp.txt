@@ -1,0 +1,3 @@
+Ycord = 40
+savemate = T
+Xcord = 50

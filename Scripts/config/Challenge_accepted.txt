@@ -1,0 +1,2 @@
+toggleKey = F
+BlinkComboKey = D

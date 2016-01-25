@@ -1,0 +1,3 @@
+ToggleAlways = false
+Hotkey = L
+MinimumHP = 200

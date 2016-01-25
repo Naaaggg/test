@@ -1,0 +1,3 @@
+YY = 0
+ShowLastSpell = true
+XX = 20

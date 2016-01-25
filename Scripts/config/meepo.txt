@@ -1,0 +1,12 @@
+Ycord = 30
+stopcombo = S
+poofseltofirstsel = T
+activate = space
+pooffontain = D
+junglewithshift = F
+WomboCombo = F
+earthbind = Q
+hpPercent = 0.5
+poofallplusself = E
+Xcord = 50
+poofall = R

@@ -1,0 +1,3 @@
+IncreaseNumber = V
+SetQuantityToZero = C
+Hotkey = O

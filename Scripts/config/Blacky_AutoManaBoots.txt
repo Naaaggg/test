@@ -1,0 +1,8 @@
+ManaAllies = 50
+DropItems = true
+RangeDisplayTeamfightDetection = true
+Enabled = true
+ManaRequired = 100
+WaitForAllies = true
+DropItemsSafeModeSearchRange = 800
+DropItemsSafeMode = true

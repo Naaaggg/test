@@ -1,0 +1,4 @@
+AutoAttack = false
+ComboState = true
+Combo = T
+AttackAfterSpell = true

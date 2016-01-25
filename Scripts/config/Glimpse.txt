@@ -1,0 +1,3 @@
+SizeBig = 60
+SizeMini = 16
+SizeFont = 20

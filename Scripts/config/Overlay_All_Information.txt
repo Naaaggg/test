@@ -1,0 +1,8 @@
+glypPanel = true
+ShowIfVisible = true
+manaBar = true
+overlaySpell = true
+overlayItem = true
+ShowCourier = true
+ShowRune = true
+topPanel = true

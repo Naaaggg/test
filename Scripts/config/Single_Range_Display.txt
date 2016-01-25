@@ -1,0 +1,2 @@
+Hotkey = O
+Range = 1200

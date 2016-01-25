@@ -1,0 +1,4 @@
+HookshotKey = D
+HookshotTolerancy = 150
+Hotkey = F
+StopKey = S

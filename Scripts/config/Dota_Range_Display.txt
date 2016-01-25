@@ -1,0 +1,3 @@
+ShowAbilityPanel = 56
+SingleHotKey = O
+Range = 1200

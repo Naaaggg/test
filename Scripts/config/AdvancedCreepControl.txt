@@ -1,0 +1,10 @@
+enableDenies = true 
+enableLasthits = true 
+CustomMove = G
+Spaceformove = true 
+AutoUnAggro = true 
+UseAttackModifiers = true 
+ShowMenuAtStart = false 
+ShowSign = false 
+ActiveFromStart = true 
+Menu = H

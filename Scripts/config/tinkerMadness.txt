@@ -1,0 +1,7 @@
+AlwaysUlti = false
+GUI y Position = 70
+StopKey = S
+Hotkey = F
+MinimumCombo = item_blink, item_sheepstick
+GUI x Position = 5
+ComboSleep = 50

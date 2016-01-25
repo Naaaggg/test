@@ -1,0 +1,3 @@
+UPKEY = 55
+DOWNKEY = 56
+turnflag = false

@@ -1,0 +1,5 @@
+OwnFountain = false
+Enabled = true
+TrueSight = true
+EnemyFountain = true
+AttackRange = true

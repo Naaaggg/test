@@ -1,0 +1,14 @@
+Hookkey = D
+ManualtoggleKey = G
+Hotkey = F
+
+
+HookTolerancy = 0
+StopKey = S
+
+
+EnableMouseAdjusting = false
+HookCanceling = true
+BlindHooks = false
+GuiSleep = 0
+PredictionGUI = true

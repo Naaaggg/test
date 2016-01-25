@@ -1,0 +1,10 @@
+AutoAttackKey = S
+ModifiersTogglekey = J
+ActiveFromStart = true
+Menu = H
+ShowSign = true
+EnableAttackModifiers = true
+CustomMove = J
+Spaceformove = true
+ShowMenuAtStart = true
+DontOrbwalkWhenIdle = true

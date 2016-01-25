@@ -1,0 +1,3 @@
+UseClosest = false
+Hotkey = K
+Enabled = true
